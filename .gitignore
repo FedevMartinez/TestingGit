@@ -1,0 +1,10 @@
+﻿# Archivos y carpetas a ignorar en proyectos .NET/Blazor
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.dbmdl
+*.log
+*.vsidx
+*.cache
